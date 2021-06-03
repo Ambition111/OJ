@@ -1,5 +1,11 @@
 // 题目链接：https://www.nowcoder.com/practice/c3120c1c1bc44ad986259c0cf0f0b80e
 
+/*
+示例1
+输入："This is a sample",16
+返回值："SAMPLE A IS tHIS"
+*/
+
 class Solution {
 public:
     string trans(string s, int n) {
